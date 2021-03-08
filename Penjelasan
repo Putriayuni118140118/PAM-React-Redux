@@ -1,0 +1,4 @@
+1. Langkah pertama Open Command Prompt 
+2. Untuk Create Project tuliskan npx create-react-app kalkulator-redux
+3. Lalu install library dengan npm install --save redux react-redux
+4. Selanjutnya buka visual code dan lihat hasil dengan Expo 
